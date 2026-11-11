@@ -1,0 +1,48 @@
+
+# Visual Studio
+.vs/
+**/.vs/
+*.user
+*.suo
+
+# Claude local settings
+.claude/
+**/.claude/
+
+# .NET build files
+**/bin/
+**/obj/
+
+# Angular dependencies and build output
+**/node_modules/
+**/.angular/
+**/dist/
+**/coverage/
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+
+# ASP.NET Core environment configuration
+**/appsettings.Development.json
+**/appsettings.Staging.json
+**/appsettings.Production.json
+
+# IDE and temporary files
+.idea/
+*.log
+.DS_Store
+Thumbs.db
+
+# Test results
+**/TestResults/
+
+# Runtime uploaded files
+backend/AbroadParcel.Api/App_Data/uploads/
+
+# Runtime uploaded files
+backend/AbroadParcel.Api/App_Data/uploads/
+
+# Local development configuration
+frontend/.vscode/

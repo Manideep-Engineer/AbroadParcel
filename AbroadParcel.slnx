@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/AbroadParcel.Api/AbroadParcel.Api.csproj" />
+  </Folder>
+</Solution>
